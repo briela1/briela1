@@ -3,25 +3,23 @@
 </div>  
   
 
-### <div align="center">Soy Ana Gabriela Paz 👩🏻‍💻</div>  
+## <div align="center">Soy Ana Gabriela Paz 👩🏻‍💻</div>  
   
 
-👋 ¿Quién soy?
+## 👋 ¿Quién soy?
 
 Soy una desarrolladora Full Stack que disfruta de la creación de contenido atractivo que vive en Internet. Descubrí mi pasión por la programación y estoy en constante formación, usando cada espacio para seguir entrenando y desafiándome para mejorar mis habilidades. Cuento con experiencia trabajando en React, Redux, SQL, NodeJS, entre otras tecnologías del sector.
 
-⏪ ¿De dónde vengo?
+## ⏪ ¿De dónde vengo?
 
 Anterior a ello, terminé la carrera universitaria de Administración de Negocios Globales, la cual me ha aportado mucho en mi capacidad para trabajar en equipo y habilidad para la organización de recursos, versatilidad para aprender y adaptarme a situaciones cambiantes.
 
-🔭 ¿Hacia dónde voy?
+## 🔭 ¿Hacia dónde voy?
 
 Mi objetivo profesional es desarrollar mi carrera en el mundo de la tecnología con la experiencia del usuario en mente, como base de un sitio web que realmente convierte y atrae al visitante.
 
 Usando las últimas tecnologías disponibles estoy dispuesta a crecer y desafiarme a sí misma en entornos donde pueda aprender y seguir creando increíbles experiencias dinámicas que viven en Internet.
 
-Si quieres saber más de mí, ¡no dudes en contactarme!  
-📬 anagabriela.pazb@gmail.com  
   
 
 <br/>  
@@ -69,6 +67,8 @@ Si quieres saber más de mí, ¡no dudes en contactarme!
 
 
 ## 📬 Contacto 
+Si quieres saber más de mí, ¡no dudes en contactarme!  
+📧 anagabriela.pazb@gmail.com  
 <div align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ana-gabriela-paz-bringas/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
